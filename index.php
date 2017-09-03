@@ -1,4 +1,4 @@
-<form action="consulta.php" method="post">
+<form action="consulta.php" method="get">
     <input placeholder="Escriba su nombre" name="nombre" type="text">
     <br>
     <input placeholder="Escriba su edad" name="edad" type="text">
